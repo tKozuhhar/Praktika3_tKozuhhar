@@ -47,12 +47,12 @@ Pärast seda paigalda SQL Server, kui seda ei ole, ja paketid projektis: <br>
 `npm install dotenv` <br>
 
 Loo ".env" fail järgmine sisuga: <br>
-`DB_HOST = localhost (näiteks "mail.vk.edu.ee")` <br>
-`DB_PORT = your_db_port (näiteks "1433")` <br>
-`DB_NAME = raamatud (näiteks "db_Kozuhhar")` <br>
-`DB_USER = your_db_user (näiteks "t212445")` <br>
-`DB_PASSWORD = your_db_password (näiteks "t212445")` <br>
-`JWT_SECRET = salajane_sone (näiteks "VaLeRiAcZaP")` <br>
+`DB_HOST = localhost` <br>
+`DB_PORT = your_db_port` <br>
+`DB_NAME = raamatud` <br>
+`DB_USER = your_db_user` <br>
+`DB_PASSWORD = your_db_password` <br>
+`JWT_SECRET = salajane_sone` <br>
 `PORT = 3000` <br>
 
 Pärast seda kasutatakse käsk: <br>
